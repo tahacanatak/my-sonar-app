@@ -1,1 +1,1 @@
-# my-sonar-app-1
+# my-sonar-app-2
